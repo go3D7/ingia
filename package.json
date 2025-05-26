@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "supabase": "^2.23.4"
+  },
+  "scripts": {
+    "supabase:init": "supabase init",
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop",
+    "supabase:login": "supabase login",
+    "supabase:link": "supabase link --project-ref pjgdsdnvetonngqywpin"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.49.8"
+  }
+}
