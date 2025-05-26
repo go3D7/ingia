@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@supabase/ssr": "^0.6.1",
-    "@supabase/supabase-js": "^2.49.8"
+    "@supabase/supabase-js": "^2.49.8",
+    "@types/qrcode.react": "^3.0.0",
+    "qrcode.react": "^4.2.0"
   }
 }
